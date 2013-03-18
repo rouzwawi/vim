@@ -2,6 +2,7 @@ call pathogen#infect()
 call pathogen#runtime_append_all_bundles()
 
 set number
+colorscheme darkburn
 syntax on
 filetype on
 filetype plugin indent on
@@ -13,5 +14,5 @@ autocmd Filetype python setlocal ts=4 sts=4 sw=4 expandtab
 set list
 
 "Invisible character colors
-highlight NonText guifg=#ffffff
-highlight SpecialKey guifg=#ffffff
+highlight NonText guifg=#454545
+highlight SpecialKey guifg=#454545
