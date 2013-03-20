@@ -14,6 +14,8 @@ set ts=2 sts=2 sw=2 expandtab
 
 autocmd Filetype python setlocal ts=4 sts=4 sw=4 expandtab
 autocmd Filetype scala setlocal ts=3 sts=3 sw=3 expandtab
+autocmd Filetype less setlocal ts=3 sts=3 sw=3 expandtab
+autocmd Filetype jade setlocal ts=3 sts=3 sw=3 expandtab
 
 set list
 
