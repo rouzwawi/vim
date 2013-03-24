@@ -23,4 +23,4 @@ set list
 highlight NonText guifg=#454545
 highlight SpecialKey guifg=#454545
 
-set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*.tar,*.tgz,*.class,*pyc
+set wildignore+=*/tmp/*,*/target/*,*.so,*.swp,*.zip,*.tar,*.tgz,*.class,*.pyc
