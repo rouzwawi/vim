@@ -2,7 +2,7 @@ call pathogen#infect()
 call pathogen#runtime_append_all_bundles()
 
 set number
-colorscheme darkburn
+colorscheme colorzone
 syntax on
 filetype on
 filetype plugin indent on
